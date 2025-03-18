@@ -89,7 +89,10 @@ Simulate a chess game between two players using the Minimax algorithm with alpha
 - `/Minimax`: Chess game simulation with alpha-beta pruning.  
 - `README.md`: This document.  
 
-## How to Use  
+## How to Use
+Clone this by using 
+https://github.com/Fuad-Rafi/AI-Algorithm.git
+or
 Run the respective script for each problem
 python a_star.py
 python genetic_algo.py
